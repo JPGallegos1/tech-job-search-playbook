@@ -1,0 +1,3 @@
+id,date_found,company,role,url,source,modality,location,relocation,startup,salary_info,contact_email,fit_score,cv,language,status,date_sent,gmail_thread_id,notes
+sd-acme-tech-full-stack-engineer,2026-11-20,Acme Tech,Full-Stack Engineer,https://ejemplo.com/jobs/full-stack,startup_direct,remote,LATAM,no,yes,no publicado,ejemplo@acme.example,8,fullstack,es,queued,,,
+gob-northwind-frontend-mid,2026-11-21,Northwind Labs,Frontend Mid,https://www.getonbrd.com/jobs/ejemplo-frontend,Get on Board,hybrid,Buenos Aires,no,yes,USD 2000–2500,,7,frontend,es,manual,,,sin email publicado; canal C
