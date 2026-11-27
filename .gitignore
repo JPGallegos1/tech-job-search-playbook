@@ -1,0 +1,21 @@
+# Archivos personales de trabajo (no subir CVs ni datos privados)
+PLAN.md
+tracker.csv
+queue.json
+sent.log
+notion.json
+cvs/
+*.pdf
+
+# Backups locales del tracker / cola
+*.bak
+*.bak-*
+tracker.csv.bak*
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/

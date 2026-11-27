@@ -1,0 +1,14 @@
+[
+  {
+    "id": "sd-acme-tech-full-stack-engineer",
+    "to": "ejemplo@acme.example",
+    "subject": "Full-Stack Engineer - [NOMBRE COMPLETO]",
+    "body": "Hola equipo de Acme Tech,\n\nVi la búsqueda de Full-Stack Engineer y me interesa porque el producto y el stack encajan con lo que busco. En roles recientes trabajé con APIs y frontends en producción, y puedo aportar experiencia concreta en [TECNOLOGÍA 1] y [TECNOLOGÍA 2].\n\nAdjunto mi CV. Quedo atento/a a cualquier siguiente paso.\n\nSaludos,\n[NOMBRE COMPLETO]\n",
+    "cv": "job-search/cvs/CV-FullStack.pdf",
+    "company": "Acme Tech",
+    "role": "Full-Stack Engineer",
+    "source": "startup_direct",
+    "not_before": "2026-11-24T09:00:00-03:00",
+    "resend": false
+  }
+]
